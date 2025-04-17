@@ -1,0 +1,10 @@
+[project]
+name = "yolo10train"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "label-studio>=1.17.0",
+    "ultralytics==8.2.91",
+]
