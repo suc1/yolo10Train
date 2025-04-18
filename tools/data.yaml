@@ -1,0 +1,7 @@
+train: D:\PycharmProjects2\yolo10Train\datasets\train
+val: D:\PycharmProjects2\yolo10Train\datasets\val
+test: D:\PycharmProjects2\yolo10Train\datasets\test
+
+nc: 2
+names: ['ripe', 'unripe']
+
